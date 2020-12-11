@@ -1,8 +1,7 @@
 # Flutter Gui
-[![GitHub Release](https://img.shields.io/github/release/zjayers/flutter.gui.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/flutter.gui.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/flutter.gui.svg?style=flat)](https://github.com/zjayers/flutter.gui/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/flutter.gui.svg?style=flat)](https://github.com/zjayers/flutter.gui/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/flutter.gui.svg?maxAge=25000)](https://github.com/zjayers/flutter.gui/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/flutter.gui/blob/master/LICENSEs)
 
 ## Description
 
